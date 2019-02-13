@@ -2,10 +2,10 @@
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
 
-$servername = "localhost";
-$username = "root";
-$password = "1234";
-$dbname = "html";
+$servername = "#";
+$username = "#";
+$password = "#";
+$dbname = "#";
 
 
 // $id = stripslashes($id);
